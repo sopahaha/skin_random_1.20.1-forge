@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="skinloader"
+version="1.0.0"
+displayName="Skin random do sopa"
+authors="sopa"
+description='''
+    Um mod simples para carregar skins aleatórias do GitHub usando o SkinRestorer.
+    '''
+
+[[dependencies.skinloader]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.skinloader]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

@@ -38,3 +38,4 @@ c86b96f67d830ea9.png
 ba80a71fa8297ad5.png
 miku_aot.png
 f01a6e4856ba7520.png
+miku_black.png
